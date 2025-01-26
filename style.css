@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: hsl(30, 10%, 34%);
+  }  
+  body {
+    background-color: hsl(30, 54%, 90%);
+    padding: 50px 0;
+    margin-left: 100px ;
+  }
+  h1{
+    color: hsl(24, 5%, 18%);
+    font-family: "Young Serif", serif;
+    font-weight: 450;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 38px;
+  }
+  h2{
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 580;
+  }  
+  .container {
+    width: 780px;    
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    overflow: hidden;
+    font-size: 16px;
+  }
+  .container_text {
+    background-color: hsl(0, 0%, 100%);
+    text-align: left;
+    padding: 35px 25px 15px;
+    font-family: "Outfit", serif;
+  }
+  .container_preparation{
+    background-color: hsl(330, 100%, 98%);
+    padding: 30px 30px 30px; 
+    border-radius: 10px;
+    font-family: "Outfit", serif;  
+  }
+  .container_preparation h2{
+    color: hsl(332, 51%, 32%);
+    margin-left: 10px;
+    font-family: "Outfit", serif;
+  }
+  .container_preparation li{
+    margin-left: 43px;
+  }
+  .container_ingredients{
+    padding: 15px 25px;
+  } 
+  .container_instructions{
+    padding: 15px 25px; 
+  }  
+  img {
+    padding: 10px;
+    width: 100%;
+    border-radius: 25px;
+  }
+  li{
+    color: hsl(14, 45%, 36%);
+    padding: 10px 20px 10px;
+    margin-left: 25px;
+  }
+  .texto{
+    color: hsl(30, 10%, 34%);
+    font-weight: 700;
+  }
+  li span{
+    color: hsl(30, 3%, 14%);
+    font-weight: 800;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .container_nutrition{
+    margin-left: 23px;
+  }
+  .Nutrition{
+    color: hsl(14, 45%, 36%);
+    margin-left:200px;
+    font-weight: 800;
+    text-align: left;
+  }
+  .Nutrition2{
+    color: hsl(14, 45%, 36%);
+    margin-left:217px;
+    font-weight: 800;
+    text-align: left;
+  }
+  .Nutrition3{
+    color: hsl(14, 45%, 36%);
+    margin-left:208px;
+    font-weight: 800;
+    text-align: left;
+  }
+  .Nutrition4{
+    color: hsl(14, 45%, 36%);
+    margin-left:235px;
+    font-weight: 800;
+    text-align: left;
+  }
+  .text_n{
+    padding-left: 0;
+  }
+  p{  
+    font-size: 17px;
+    padding: 20px 10px;
+  }
+  .container_nutrition span{
+    padding: 30px;   
+  }
+  hr {
+    border: 0;
+    border-top: 2px solid hsl(40, 4%, 85%); 
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
