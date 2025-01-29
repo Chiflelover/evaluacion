@@ -1,8 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    color: hsl(30, 10%, 34%);
+    box-sizing: border-box; 
   }  
   body {
     background-color: hsl(30, 54%, 90%);
